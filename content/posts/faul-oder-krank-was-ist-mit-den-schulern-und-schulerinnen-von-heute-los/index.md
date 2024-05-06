@@ -41,7 +41,7 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 
 ## Die Situation ist prekär, besonders für Betroffene
 
-«Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.[\*](#_ftn1) den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen.
+«Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.*[](#_ftn1) den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen.
 
 «Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.»
 
