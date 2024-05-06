@@ -4,8 +4,24 @@ date = "2024-05-08"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-description = "Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?"
+description = ""
 +++
+<!--StartFragment-->
+
+{{<lead>}}
+
+Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?
+
+{{</lead>}}
+
+
+
+<!--EndFragment-->
+
+
+
+
+
 **Irini Gayed, Aline Bouquet**
 
 «Es ist schon manchmal Bedenken im Raum wie entwickeln sich diese jugendlichen Kinder dann weiter ins Erwachsenenalter. Wie gut kommen sie später klar?» so Dr. med. Verena Amrein-Zürcher, Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie, auf die Frage, wie sie die Zukunft der Betroffenen sieht, als wir sie in ihrem gemütlich eingerichteten Haus in einem ruhigen Quartier in Bern besuchen. Grund zu solch einer Aussage hat sie allemal, denn psychische Krankheiten entstehen oft im jungen Alter; viele Betroffene haben schlechte Kindheitserfahrungen gemacht.
@@ -70,7 +86,9 @@ Die Rolle der Schule
 «Ich glaube es ist halt sehr unterschiedlich, wie ich das auch aus meiner Perspektive erlebe. Ich glaube es gibt da sehr viele sehr bemühte Lehrkräfte aber grundsätzlich schon, aber das ist ja nicht nur die Schule, das ist ja auch die Gesellschaft, die das fordert und viele Eltern, die das fordern», so Dr. med. Verena Amrein-Zürcher auf die Frage, ob die Schule zu viel Druck auf die Jugendlichen ausübt. Diese Unterschiede werden von unseren beiden Betroffenen Laura K. und Marie S. bestätigt, denn Laura K. berichtet von sowohl unterstützenden wie aber auch von diskriminierenden Lehrpersonen. Sie erklärt, dass die meisten Lehrkräfte von ihr unterstützend seien und nicht noch mehr unnötigen Druck ausüben, jedoch Personen in höheren Positionen, wie zum Beispiel die Abteilungsleitung, machen viel Druck wegen Absenzen.
 «Wenn das die Schulleitung weiss, dann schaut sie auch, dass es den Schülern und Schülerinnen gut geht», meldet Marie S. zu diesem Punkt. Sie geht an ein anderes Gymnasium als Laura K. und macht dadurch auch eine andere Erfahrung, wie eben, dass die Schulleitung unterstützend sei und keinen zusätzlichen Druck ausübe.  
 
-Was nun?
+## Was nun?
+
+
 Gegen Ende unserer Interviews hin fragten wir unsere Betroffenen, was sich ihrer Meinung nach ändern müsste und was sie Leuten gerne mit auf den Weg geben würden. Laura K. äussert daraufhin Bedenken mit dem gesellschaftlichen Umgang mit psychischen Krankheiten, diese seien «extrem stigmatisiert» und vieles würde nicht mehr ernstgenommen werden, denn «jeder hat ja jetzt Autismus oder sonst etwas, nein ist nicht so. \[…] Es wird teils als Trend dargestellt und jeder ist jetzt psychisch krank und das ist nicht so, es betrifft viele, leider, aber es ist nicht jeder und man sollte die Leute ernst nehmen.» Ausserdem appelliert sie psychisch Kranke nicht nur als ihre Krankheit zu sehen: «Sie haben nicht nur diese Krankheit, sondern sind auch noch eine Person dazu.» Auch Marie S. kommt auf das Stigma, das mit mentalen Krankheiten verbunden ist, zu sprechen, wichtig ist ihr ausserdem, dass wenn man merkt, dass man Hilfe braucht, man sich diese auch holt: «Es hat keinen Grund sich dafür zu schämen, wir brauchen alle an irgendeinem Punkt in unserem Leben Hilfe und es ist auch okay, wenn das von aussen kommt.»
 Diese Aussagen stimmen mit der Einschätzung von Dr. med. Amrein-Zürcher überein, sie hält es nämlich für wichtig, dass man sich getraut, früh genug Hilfe zu holen, wenn man merkt, dass man sich über längere Zeit schlecht fühlt. Als präventive Massnahme solle man mehr über mentale Gesundheit lernen, dies schon früh genug, heisst im Kindergarten und an Schulen. Auch wir als Gesellschaft müssten unseren Teil dazu beitragen und vermehrt zu unseren Mitmenschen, wie auch zu uns selbst schauen: «Zu sich schauen, auch das man psychisch gesund bleibt, dass man sich nicht vernachlässigt und da achtsam bleibt, das ist wichtig.» 
 
