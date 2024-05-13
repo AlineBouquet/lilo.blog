@@ -16,13 +16,7 @@ Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychol
 
 {{</lead>}}
 
-
-
 <!--EndFragment-->
-
-
-
-
 
 **Irini Gayed, Aline Bouquet**
 
@@ -44,9 +38,7 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 
 «Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.*[](#_ftn1) den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen.
 
-«Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.»
-
-\-     Dr. med. Verena Amrein-Zürcher
+«Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.»             -     Dr. med. Verena Amrein-Zürcher
 
 ![Dr. med. Verena Amrein-Zürcher, Abbildung 2](bild1.jpg)
 
@@ -59,8 +51,6 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 Die Fachärztin FMH für Kinder- und Jugendpsychiatrie und  -psychotherapie Dr. med. Verena Amrein-Zürcher, welche momentan in der Gruppenpraxis famkij für Familien-, Kinder- und Jugendpsychologie arbeitet, war zuvor zehn Jahre lang Oberärztin am Ambulatorium des KJPD in Solothurn.
 
 {{</box>}}
-
-
 
 <!--EndFragment-->
 
@@ -90,10 +80,7 @@ Die Rolle der Schule
 
 ## Was nun?
 
-
 Gegen Ende unserer Interviews hin fragten wir unsere Betroffenen, was sich ihrer Meinung nach ändern müsste und was sie Leuten gerne mit auf den Weg geben würden. Laura K. äussert daraufhin Bedenken mit dem gesellschaftlichen Umgang mit psychischen Krankheiten, diese seien «extrem stigmatisiert» und vieles würde nicht mehr ernstgenommen werden, denn «jeder hat ja jetzt Autismus oder sonst etwas, nein ist nicht so. \[…] Es wird teils als Trend dargestellt und jeder ist jetzt psychisch krank und das ist nicht so, es betrifft viele, leider, aber es ist nicht jeder und man sollte die Leute ernst nehmen.» Ausserdem appelliert sie psychisch Kranke nicht nur als ihre Krankheit zu sehen: «Sie haben nicht nur diese Krankheit, sondern sind auch noch eine Person dazu.» Auch Marie S. kommt auf das Stigma, das mit mentalen Krankheiten verbunden ist, zu sprechen, wichtig ist ihr ausserdem, dass wenn man merkt, dass man Hilfe braucht, man sich diese auch holt: «Es hat keinen Grund sich dafür zu schämen, wir brauchen alle an irgendeinem Punkt in unserem Leben Hilfe und es ist auch okay, wenn das von aussen kommt.»
 Diese Aussagen stimmen mit der Einschätzung von Dr. med. Amrein-Zürcher überein, sie hält es nämlich für wichtig, dass man sich getraut, früh genug Hilfe zu holen, wenn man merkt, dass man sich über längere Zeit schlecht fühlt. Als präventive Massnahme solle man mehr über mentale Gesundheit lernen, dies schon früh genug, heisst im Kindergarten und an Schulen. Auch wir als Gesellschaft müssten unseren Teil dazu beitragen und vermehrt zu unseren Mitmenschen, wie auch zu uns selbst schauen: «Zu sich schauen, auch das man psychisch gesund bleibt, dass man sich nicht vernachlässigt und da achtsam bleibt, das ist wichtig.» 
-
-
 
 <!--EndFragment-->
